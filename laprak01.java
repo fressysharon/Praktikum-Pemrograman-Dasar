@@ -14,7 +14,7 @@ public class laprak01 {
           System.out.print("Masukkan operator kedua   : ");
           b = input.nextInt();
 
-          // hitung/
+          // hitung
           penjumlahan = a + b;
           pengurangan = a - b;
           perkalian = a * b;
